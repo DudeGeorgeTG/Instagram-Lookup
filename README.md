@@ -20,5 +20,5 @@ A Python script that queries Instagram's private API to look up user information
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/instagram-lookup.git
+   git clone https://github.com/DudeGeorgeTG/Instagram-Lookup.git
    cd instagram-lookup
